@@ -1,5 +1,6 @@
 //Aylen Monzon y Camila Rodil
 //comision 3
+//https://www.youtube.com/shorts/1oNbuW5m5C4
 
 let pantallas = new Array(22);
 let img = [];
